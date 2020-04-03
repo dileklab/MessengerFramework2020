@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18ef855f-cb47-4a48-934b-dc567269ca94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoOMZDT08JR8TC58B2koEF2gaI" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Verify invalid login for multiple users" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberBDDFramework_2020" />
+      <option name="NAME_FILTER" value="^Verify invalid login for multiple users$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login for multiple users$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login for multiple users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify invalid login from messenger page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Messenger.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberBDDFramework_2020" />
+      <option name="NAME_FILTER" value="^Verify invalid login from messenger page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login from messenger page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login from messenger page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBDDFramework_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login for multiple users" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login from messenger page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18ef855f-cb47-4a48-934b-dc567269ca94" name="Default Changelist" comment="" />
+      <created>1585501932210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585501932210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="33" width="800" height="717" key="#Intentions" timestamp="1585508245664">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="240" y="33" width="800" height="717" key="#Intentions/0.23.1280.727@0.23.1280.727" timestamp="1585508245664" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1585701542363">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1585530285234" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1585687627968" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1585701542363" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1585701542362">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1585530285234" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1585687627967" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1585701542362" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1585701542362">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1585530285233" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1585687627965" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1585701542362" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1585701542363">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1585530285234" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1585687627967" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1585701542363" />
+    <state x="149" y="27" key="SettingsEditor" timestamp="1585504026716">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="149" y="27" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1585504026716" />
+  </component>
+</project>
